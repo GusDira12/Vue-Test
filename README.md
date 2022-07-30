@@ -8,16 +8,16 @@ using https://vuejs.org/ with https://vercel.com/button
 
 - local run
 
-yarn install
+```yarn install```
 
 - compile & hot-reload
 
-yarn serve
+```yarn serve```
 
 - compile & minify (build)
 
-yarn build
+```yarn build```
 
 - lint & fix files
 
-yarn lint
+```yarn lint```
