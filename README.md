@@ -1,35 +1,23 @@
-# Vue.js
+yeah nothing here, learning JS and all that
 
-This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can be deployed to Vercel with zero configuration.
+using https://vuejs.org/ with https://vercel.com/button
 
-## Deploy Your Own
 
-Deploy your own Vue.js project with Vercel.
+- notes -
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vue&template=vue)
 
-_Live Example: https://vue-template.vercel.app_
+- local run
 
-## Running Locally
-
-```
 yarn install
-```
 
-#### Compile and hot-reload for development
+- compile & hot-reload
 
-```
 yarn serve
-```
 
-#### Compile and minify for production
+- compile & minify (build)
 
-```
 yarn build
-```
 
-#### Lint and fix files
+- lint & fix files
 
-```
 yarn lint
-```
